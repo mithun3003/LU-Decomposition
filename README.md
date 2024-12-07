@@ -38,6 +38,7 @@ Developed by: MITHUN S
 RegisterNumber: 24901037
 */
 ```
+```
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
 AMatrix=np.array(eval(input()),dtype='i')
